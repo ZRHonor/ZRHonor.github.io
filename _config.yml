@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: ZRHonor
+title: ZRHonor's Blog
 subtitle: Their honor.
 description: Hello, World!
 author: ZRHonor
@@ -150,8 +150,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
