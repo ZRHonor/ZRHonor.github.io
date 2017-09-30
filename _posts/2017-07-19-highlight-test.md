@@ -2,7 +2,6 @@
 title: Highlight Test
 categories:
  - Test
-tags:
 ---
 
 This is a highlight test.
