@@ -3,8 +3,8 @@ title: Highlight Test
 categories:
  - Test
 ---
-
 This is a highlight test.
+
 
 # Normal block
 
