@@ -3,4 +3,5 @@ title: About
 layout: page
 ---
 
-Building...
+# ZRHonor
+## E-mail: zrhonour@outlook.com
